@@ -345,7 +345,7 @@ d_{11} & d_{12} / 2 \\
 d_{12} /2 & d_{22}
 \end{bmatrix}
 \begin{bmatrix}
-x_1 & x_2
+x_1 \\ x_2
 \end{bmatrix}
 
 $$
